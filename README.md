@@ -14,12 +14,6 @@ A Ecommerce Website made with React.js Framework.
 
 ## Run Locally
 
-Clone the project
-
-```bash
-  git clone https://github.com/ssahibsingh/React_E-Commerce
-```
-
 Go to the project directory
 
 ```bash
